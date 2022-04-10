@@ -1,6 +1,6 @@
 # python-web3-sell-bot
 
-python3 install
+python3.8.x install
 
 pip install
 
